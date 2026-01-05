@@ -41,7 +41,8 @@
 **📧 联系邮箱**：ldx.9@163.com  
 
 电报二维码
-![alt text](image.png)
+<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/db7ed1d5-4a7a-4d40-b899-f314b01bfff9" />
+
 
 
 
